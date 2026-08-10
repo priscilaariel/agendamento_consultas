@@ -52,7 +52,6 @@ Três pontos já concentram a atenção da gerência **antes mesmo do primeiro s
 ```
 .
 ├── README.md                          # Visão geral e contexto (este arquivo)
-├── respostas.md                       # Respostas às questões 2 a 6 da atividade
 ├── riscos/
 │   ├── identificacao.md               # Registro de riscos, causas e gatilhos
 │   └── analise.md                     # Probabilidade, impacto, severidade e priorização
@@ -60,26 +59,8 @@ Três pontos já concentram a atenção da gerência **antes mesmo do primeiro s
     └── status-stakeholders.md         # Relatório executivo de status
 ```
 
-> Observação: os **planos de resposta aos riscos** (mitigar, transferir, evitar, aceitar) estão consolidados em `riscos/analise.md` e detalhados por risco em `riscos/identificacao.md`. O arquivo `respostas.md` na raiz responde às questões da atividade acadêmica.
+> Observação: os **planos de resposta aos riscos** (mitigar, transferir, evitar, aceitar) estão consolidados em `riscos/analise.md` e detalhados por risco em `riscos/identificacao.md`.
 
----
-
-## 3. Como navegar
-
-- Quer entender **o que pode dar errado**? → `riscos/identificacao.md`
-- Quer saber **o que é mais grave e o que fazer**? → `riscos/analise.md`
-- Quer o **resumo para a diretoria**? → `comunicacao/status-stakeholders.md`
-- Quer as **respostas da atividade**? → `respostas.md`
-
----
-
-## 4. Convenções adotadas
-
-- Escala de probabilidade e impacto de 1 a 5.
-- Severidade = Probabilidade × Impacto (1 a 25).
-- Faixas: **Baixo** 1–6 · **Médio** 7–12 · **Alto** 13–19 · **Crítico** 20–25.
-- Cada risco possui identificador único no formato `R-XX`, responsável nomeado e data de revisão.
-- Este é o **registro inicial de riscos**, produzido na fase de planejamento, antes do início do desenvolvimento. Ele será revisado e recalibrado ao final de cada sprint, quando dados reais de execução passarem a existir.
 
 ---
 
