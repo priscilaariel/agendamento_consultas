@@ -9,18 +9,18 @@
 
 ## 1. Situação geral
 
-**Status: PLANEJAMENTO 🔵**
+**Status: PLANEJAMENTO**
 
 O projeto foi aprovado e está em sua fase inicial de estruturação. Ainda não há desenvolvimento em curso: a equipe está sendo formada, os requisitos estão sendo levantados junto à área médica e administrativa, e as decisões estruturais de arquitetura e de contratação de fornecedores ainda estão em aberto. Este relatório tem como objetivo alinhar expectativas antes do kickoff formal.
 
 | Dimensão | Situação |
 |---|---|
-| Escopo | 🟡 Levantamento em andamento; baseline ainda não aprovada |
-| Prazo | 🔵 Cronograma em elaboração; datas ainda não comprometidas |
-| Custo | 🔵 Orçamento aprovado; sem execução até o momento |
-| Qualidade | ⚪ Não aplicável nesta fase |
-| Riscos | 🟡 Registro inicial concluído; dois riscos de alta severidade dependem de decisão externa à equipe |
-| Equipe | 🟡 Em formação; alocação final pendente |
+| Escopo | Levantamento em andamento; baseline ainda não aprovada |
+| Prazo | Cronograma em elaboração; datas ainda não comprometidas |
+| Custo | Orçamento aprovado; sem execução até o momento |
+| Qualidade | Não aplicável nesta fase |
+| Riscos | Registro inicial concluído; dois riscos de alta severidade dependem de decisão externa à equipe |
+| Equipe | Em formação; alocação final pendente |
 
 ---
 
@@ -77,36 +77,3 @@ Registro inicial de riscos, produzido antes do início do desenvolvimento. Detal
 
 ---
 
-## 7. Indicadores previstos para acompanhamento (a partir da Sprint 1)
-
-Como não há execução ainda, não há indicadores medidos. Os seguintes serão instituídos desde o primeiro sprint:
-
-| Indicador | Meta |
-|---|---|
-| Taxa de sucesso nas chamadas ao PEP | ≥ 98% |
-| Itens não planejados admitidos por sprint | ≤ 1 |
-| Desvio entre esforço estimado e realizado | ≤ 15% |
-| Cobertura de testes automatizados | ≥ 70% |
-| Vulnerabilidades críticas em aberto | 0 |
-
----
-
-## 8. Plano de comunicação
-
-| Público | Conteúdo | Frequência | Canal |
-|---|---|---|---|
-| Patrocinador | Status executivo e decisões pendentes | Quinzenal (a partir do kickoff) | Este relatório + reunião de 30 min |
-| Diretoria Clínica | Validação de requisitos e baseline | Nesta fase, sob demanda | Reuniões de levantamento |
-| Equipe de projeto | Andamento da estruturação | Semanal | Reunião de alinhamento |
-| Fornecedor do PEP | Definição do modelo de integração e SLA | Em negociação | Reuniões técnicas e comerciais |
-| Usuários-piloto | Ainda não iniciado | — | — |
-
----
-
-## 9. Mensagem da gerência
-
-O projeto está em um ponto saudável de maturidade para uma fase de planejamento: o escopo macro está claro, o registro inicial de riscos já aponta onde está a maior incerteza, e nenhuma decisão pendente é, hoje, um bloqueio definitivo. O pedido para este ciclo é concentrar energia executiva em **duas frentes que a equipe técnica não resolve sozinha**: a formalização do relacionamento com o fornecedor do prontuário e a aprovação da baseline funcional pela área médica. Resolver essas duas questões antes do kickoff reduz de forma significativa o risco acumulado do projeto.
-
----
-
-**Próxima emissão:** no kickoff formal do projeto
